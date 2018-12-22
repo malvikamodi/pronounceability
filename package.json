@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/malvikamodi/pronounceability/issues"
   },
-  "homepage": "https://github.com/malvikamodi/pronounceability#readme"
+  "homepage": "https://github.com/malvikamodi/pronounceability#readme",
+  "dependencies": {
+    "binary-shannon-entropy": "^1.1.3",
+    "elasticsearch": "^15.2.0",
+    "elasticsearch-scroll-stream": "^1.1.4",
+    "pronounceable": "^1.0.1"
+  }
 }
