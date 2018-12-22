@@ -1,0 +1,25 @@
+{
+  "name": "pronouncebility",
+  "version": "1.0.0",
+  "description": "Scrolls through Elasticsearch and calculates pronounceability and entropy for 'new' domain-names",
+  "main": "nodejs_scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvikamodi/pronounceability.git"
+  },
+  "keywords": [
+    "pronounceability",
+    "ES",
+    "Scroll",
+    "NodeJS"
+  ],
+  "author": "Malvika Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malvikamodi/pronounceability/issues"
+  },
+  "homepage": "https://github.com/malvikamodi/pronounceability#readme"
+}
